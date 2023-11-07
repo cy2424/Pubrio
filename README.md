@@ -1,6 +1,6 @@
 # Pubrio Assessment: Company Information Extractor
 
-This Python script automatically extracts company names and domains from text content. It is specifically designed to process text content, such as HTML that has been scraped from TechCrunch articles. The script utilizes OpenAI's GPT model to identify related companies mentioned within the article and extracts the main topic of the article as well.
+This Python script automatically extracts company names and domains from text content. It is specifically designed to process text content, such as HTML that has been scraped from TechCrunch articles. The script utilizes OpenAI's GPT model to identify related companies mentioned within the article and extracts the main topic of the article as well. The link => https://drive.google.com/file/d/11v_NpFUeXWUU8brxnGaZGOu183XppXSa/view?usp=sharing
 
 ## Features
 
